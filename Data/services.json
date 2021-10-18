@@ -1,6 +1,7 @@
 [
     {
       "img":"/images/services/1.jpg",
+      "id":1,
       "title": "Neurology Clinic",
       "shortInfo": "Some neurologists receive subspecialty training focusing on a particular area of the fields, these training programs are called fellowships, and are one to two years.",
       "features": [
@@ -13,6 +14,7 @@
     },
     {
       "img":"/images/services/2.jpg",
+      "id":2,
       "title": "Cardiology Clinic",
       "shortInfo": "All cardiologists study the disorders of the heart, but the study of adult and child heart disorders are trained to take care of small children and adult heart disease.",
       "features": [
@@ -25,6 +27,7 @@
     },
     {
       "img":"/images/services/3.jpg",
+      "id":3,
       "title": "Pathology Clinic",
       "shortInfo": "Pathology is the study of disease, it is the bridge between science and medicine. Also it underpins every aspect of patient care, from diagnostic testing and treatment.",
       "features": [
@@ -37,6 +40,7 @@
     },
     {
       "img":"/images/services/4.jpg",
+      "id":4,
       "title": "Laboratory Analysis",
       "shortInfo": "Analyzing the radon or radon progeny concentrations with passive devices, or the act of calibrating radon or radon progeny measurement devices.",
       "features": [
@@ -49,6 +53,7 @@
     },
     {
       "img":"/images/services/5.jpg",
+      "id":5,
       "title": "Pediatric Clinic",
       "shortInfo": "Pediatric providers see patients from birth into early adulthood to make sure children achieve stay healthy. Our care includes preventive health checkups.",
       "features": [
@@ -61,6 +66,7 @@
     },
     {
       "img":"/images/services/6.jpg",
+      "id":6,
       "title": "Cardiac Clinic",
       "shortInfo": "For people requiring additional follow up, the Cardiac Clinic provides rapid access to professionals specialized in diagnosing and treating heart disease.",
       "features": [
