@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Mike Dooley",
+        "position":"Cardiology Specialist",
+        "bio": "Muldoone obtained his undergraduate degree in Biomedical Engineering at Tulane University prior to attending St George's University School of Medicine",
+        "img": "/images/doctors/1.png"
+    },
+    {
+        "name": "Kiano Barker",
+        "position":"Pathologist ",
+        "bio": "Barker help care for patients every day by providing their doctors with the information needed to ensure appropriate care. He also valuable resources for other physicians.",
+        "img": "/images/doctors/2.jpg"
+    },
+    {
+        "name": "Dupree Black",
+        "position":"Urologist",
+        "bio": "Black diagnose and treat diseases of the urinary tract in both men and women. He also diagnose and treat anything involving the reproductive tract in men.",
+        "img": "/images/doctors/3.jpg"
+    }
+]
